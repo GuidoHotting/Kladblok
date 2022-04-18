@@ -1,0 +1,29 @@
+.link{
+  color: rgb(0,110,110);
+}
+.produkt{
+  font-weight: bold;
+  font-size: large;
+}
+.prijs{
+  font-weight: bolder;
+  font-size: 15px;
+  color: rgb(0,110,0);
+}
+.winkelwagen{
+  background-color: rgb(255,215,20);
+  border: none;
+  border-radius: 25px;
+  width: 100px;
+  height: 20px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+.kopen{
+  background-color: rgb(255,165,30);
+  border: none;
+  border-radius: 25px;
+  width: 100px;
+  height: 20px;
+  cursor: pointer;
+}

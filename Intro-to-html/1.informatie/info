@@ -1,0 +1,14 @@
+https://www.youtube.com/watch?v=G3e-cpL7ofc
+
+8- 
+block-element.
+een blok element heeft als eigenschap om de hele pagina over de breedte te bedekken ongeacht je een width aan geeft. een paragraaf is een blok element.
+
+inline-block-element.
+een inline blok element neemt zoveel plaats is als dat deze nodig heeft dus niet de gehele breedte. een picture of een input is een inline blok element.
+
+inline-element.
+ook wel een tekst element zoals <strong> of <ubderline> zijn inline elementen.
+
+11-
+grid-element
